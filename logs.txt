@@ -1,0 +1,6 @@
+2026-05-01 10:00:23 ERROR Database connection failed
+2026-05-01 10:01:10 INFO User logged in
+2026-05-01 10:02:45 WARNING High memory usage
+2026-05-01 10:03:12 ERROR Timeout occurred
+2026-05-01 10:04:55 INFO File uploaded successfully
+2026-05-01 10:05:30 ERROR Disk space low
